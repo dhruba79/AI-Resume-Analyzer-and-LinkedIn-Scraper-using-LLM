@@ -94,8 +94,6 @@ To use this project, follow these steps:
 
 <br />
 
-🚀 **Streamlit application:** [https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI](https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI)
-
 <br />
 
 **Selenium-Powered LinkedIn Data Scraping:**
