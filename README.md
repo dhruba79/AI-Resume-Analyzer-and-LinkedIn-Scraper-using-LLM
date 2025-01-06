@@ -14,8 +14,7 @@ Developed an advanced AI application that utilizes LLM and OpenAI for comprehens
 3. Usage
 4. Features
 5. Contributing
-6. License
-7. Contact
+
 
 <br />
 
